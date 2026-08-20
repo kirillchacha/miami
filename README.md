@@ -1,4 +1,4 @@
-# Miami — Miami Condo Kings Real Estate Landing Page
+# Miami - Miami Condo Kings Real Estate Landing Page
 
 A fully responsive landing page for a luxury real estate agency specializing in new condominium developments in the Miami area, featuring a property gallery, client testimonials, and a modern UI.
 
