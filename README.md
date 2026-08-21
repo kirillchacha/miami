@@ -36,16 +36,6 @@ miami/
 └── favicon.ico
 ```
 
-## 🚀 Getting Started
-
-No build tools or installation required — this is a static site.
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/kirillchacha/miami.git
-   ```
-2. Open `home.html` (or `index.html`) directly in your browser, or serve the folder with any static file server.
-
 ## 📄 License
 
 This project is available for personal and portfolio use.
